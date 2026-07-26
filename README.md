@@ -86,6 +86,9 @@ After scrubbing the data, we engineered target feature sets across four core dim
 
 ---
 
+## Tableau Link Dashboard
+🔗 https://public.tableau.com/views/BlinkitSLADiagnostics-MumbaiBengaluru/BlinkitSLADiagnostics-MumbaiBengaluru?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
 ## 📁 Repository Structure
 
 ```text
